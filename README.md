@@ -2,7 +2,7 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 
 # Features:
 
-## By [Anas](https://github.com/anasty17)
+## By [vineet](https://github.com/vineet664)
 - qBittorrent
 - Select files from Torrent before downloading using qbittorrent
 - Leech (splitting, thumbnail for each user, setting as document or as media for each user)
@@ -59,14 +59,14 @@ This is a Telegram Bot written in Python for mirroring files on the Internet to 
 ## Prerequisites
 
 - Tutorial Video from A to Z:
-  - Thanks to [Wiszky](https://github.com/vishnoe115)
+  - Thanks to [Wiszky](https://github.com/vineet664)
 <p><a href="https://www.youtube.com/watch?v=gFQWJ4ftt48"> <img src="https://img.shields.io/badge/See%20Video-black?style=for-the-badge&logo=YouTube" width="160""/></a></p>
 
 ### 1. Installing requirements
 
 - Clone this repo:
 ```
-git clone https://github.com/anasty17/mirror-leech-telegram-bot mirrorbot/ && cd mirrorbot
+git clone https://github.com/vineet664/mirror-leech-telegram-bot mirrorbot/ && cd mirrorbot
 ```
 - For Debian based distros
 ```
@@ -283,7 +283,7 @@ sudo docker-compose start
 ------
 
 ## Deploying on Heroku
-<p><a href="https://github.com/anasty17/mirror-leech-telegram-bot/tree/heroku"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
+<p><a href="https://github.com/vineet664/mirror-leech-telegram-bot/tree/heroku"> <img src="https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="170""/></a></p>
 
 ------
 
